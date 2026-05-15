@@ -1,0 +1,53 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mindmatrix.nammahaadi.app-mergeDebugResources-21:/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Nisarga SK\\.gradle\\caches\\8.9\\transforms\\d8de1eed5af689f3eb8455e0c7f22d8c\\transformed\\credentials-1.2.0-rc01\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,164",
+                        "endColumns": "108,121",
+                        "endOffsets": "159,281"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nisarga SK\\.gradle\\caches\\8.9\\transforms\\07790e8654615f9bf5178d6215d0bf29\\transformed\\browser-1.4.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,170,269,381",
+                        "endColumns": "114,98,111,105",
+                        "endOffsets": "165,264,376,482"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "286,401,500,612",
+                        "endColumns": "114,98,111,105",
+                        "endOffsets": "396,495,607,713"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nisarga SK\\.gradle\\caches\\8.9\\transforms\\fc2e41b8deaa1930e453a1d8c4657340\\transformed\\core-1.8.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "718",
+                        "endColumns": "100",
+                        "endOffsets": "814"
+                    }
+                }
+            ]
+        }
+    ]
+}

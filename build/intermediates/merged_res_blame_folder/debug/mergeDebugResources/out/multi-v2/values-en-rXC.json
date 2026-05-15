@@ -1,0 +1,53 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mindmatrix.nammahaadi.app-mergeDebugResources-21:/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Nisarga SK\\.gradle\\caches\\8.9\\transforms\\07790e8654615f9bf5178d6215d0bf29\\transformed\\browser-1.4.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,255,454,665",
+                        "endColumns": "199,198,210,201",
+                        "endOffsets": "250,449,660,862"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "486,686,885,1096",
+                        "endColumns": "199,198,210,201",
+                        "endOffsets": "681,880,1091,1293"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nisarga SK\\.gradle\\caches\\8.9\\transforms\\fc2e41b8deaa1930e453a1d8c4657340\\transformed\\core-1.8.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "1298",
+                        "endColumns": "203",
+                        "endOffsets": "1497"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nisarga SK\\.gradle\\caches\\8.9\\transforms\\d8de1eed5af689f3eb8455e0c7f22d8c\\transformed\\credentials-1.2.0-rc01\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,270",
+                        "endColumns": "214,215",
+                        "endOffsets": "265,481"
+                    }
+                }
+            ]
+        }
+    ]
+}

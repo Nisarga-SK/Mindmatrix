@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.mindmatrix.nammahaadi.app-debug-23:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.mindmatrix.nammahaadi.app-main-25:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nammahaadi.app-debug-23:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.mindmatrix.nammahaadi.app-main-25:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nammahaadi.app-debug-23:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.mindmatrix.nammahaadi.app-main-25:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
